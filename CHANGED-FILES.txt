@@ -1,0 +1,13 @@
+ ATTRIBUTION.md                     |    3 +-
+ ATTRIBUTION.toml                   |   11 +
+ ROADMAP.md                         |    3 +-
+ crates/engine/src/dates.rs         |   13 +-
+ crates/ui-egui/src/i18n/ko.tsv     | 2594 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ crates/ui-egui/src/i18n/mod.rs     |  290 +++++++++++++++++-
+ crates/ui-egui/src/system_fonts.rs |   78 ++++-
+ crates/ui-egui/src/theme.rs        |   66 +++-
+ docs/localization-ko.md            |  160 ++++++++++
+ docs/localization-parity.md        |    5 +-
+ docs/localization.md               |    8 +-
+ docs/roadmap.md                    |    3 +-
+ 12 files changed, 3218 insertions(+), 16 deletions(-)

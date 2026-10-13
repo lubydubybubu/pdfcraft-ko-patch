@@ -1,0 +1,4 @@
+upstream: https://github.com/storytold/pdfcraft.git
+tag: v0.7.1
+commit: 7163ba3dee8becfff6871c9a65d0d8314314742b
+patch: patches/pdfcraft-v0.7.1-ko.patch
